@@ -3,6 +3,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkutasi&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML       20 mins         ██████████████████████▒░░   89.27 %
+Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
