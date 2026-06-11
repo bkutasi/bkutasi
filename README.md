@@ -9,11 +9,11 @@ My weekly coding stats👨‍💻:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 47 mins         ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-YAML         2 hrs 31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-Markdown     2 hrs 5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-HTML         1 hr                  ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-JSON         49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+JavaScript    3 hrs 44 mins         ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+Other         2 hrs 14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Markdown      1 hr 57 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Bash          1 hr 9 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Python        1 hr                  ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
