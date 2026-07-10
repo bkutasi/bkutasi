@@ -9,11 +9,8 @@ My weekly coding stats👨‍💻:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      31 mins               █████████░░░░░░░░░░░░░░░░   35.54 %
-JavaScript    30 mins               ████████▓░░░░░░░░░░░░░░░░   34.22 %
-Python        6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-CSS           5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-HTML          4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+JavaScript   1 min                 █████████████▓░░░░░░░░░░░   54.76 %
+Python       1 min                 ███████████▒░░░░░░░░░░░░░   45.24 %
 ```
 
 <!--END_SECTION:waka-->
