@@ -9,9 +9,8 @@ My weekly coding stats👨‍💻:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     47 mins               ██████████████▒░░░░░░░░░░   57.71 %
-Other    34 mins               ██████████▒░░░░░░░░░░░░░░   41.34 %
-Python   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+YAML    47 mins               ██████████████▓░░░░░░░░░░   58.27 %
+Other   34 mins               ██████████▒░░░░░░░░░░░░░░   41.73 %
 ```
 
 <!--END_SECTION:waka-->
