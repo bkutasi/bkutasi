@@ -9,7 +9,11 @@ My weekly coding stats👨‍💻:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   15 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Bash       13 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+Text       11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Other      10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JSON       7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
 ```
 
 <!--END_SECTION:waka-->
